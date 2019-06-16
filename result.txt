@@ -1,0 +1,700 @@
+sách:
+	0.	sách ngược đời xuôi
+	1.	chặn sách bajing 0832
+	2.	sống thiền
+	3.	cuốn sách kì diệu winfun 9019
+	4.	mít sấy gói mega a (100g)
+------------------------------------
+tai nghe:
+	0.	tai nghe bluetooth hoco e15
+	1.	tai nghe bluetooth hoco e15
+	2.	tai nghe bluetooth jabra steel
+	3.	tai nghe bluetooth pisen vn003
+	4.	tai nghe bluetooth v-moda crossfade over-ear - phantom
+------------------------------------
+balo:
+	0.	balo tucano cratere sporty backpack sbkcr (13")
+	1.	balo texet hheb-01
+	2.	balo venuco madrid r04b195
+	3.	balo gấp fuguixiang wb08025
+	4.	balo crumpler delight full foto
+------------------------------------
+anker:
+	0.	pisen portable power 2500mah
+	1.	pin sạc energizer nh15erp2 - 2300mah
+	2.	ram corsair xms3 8gb ddr3l 1600 c11 - cmx8gx3m1a1600c11
+	3.	usb hub elecom u3h-k315bbk
+	4.	tai nghe bluetooth bluedio ht - hang chinh hang
+------------------------------------
+bitis:
+	0.	lốc 10 tập (vở) kẻ ngang winner klong 560h
+	1.	này chiến trận, này cuồng si
+	2.	sandal xuong quai ngang gan no mirabella 120 - xanh (size 35)
+	3.	hiep si sainte hermine
+	4.	dép quai ngang unisex blackout b5 - quai xanh lá (size 41)
+------------------------------------
+conan:
+	0.	tham tu lung danh conan tap 17 (tai ban 2014)
+	1.	tham tu lung danh conan tap 66 (tai ban 2014)
+	2.	ban chai danh rang oral-clean gum care extra soft
+	3.	tham tu lung danh conan - tap 87 (sach tai ban)
+	4.	ban chai danh rang smiclean
+------------------------------------
+xiaomi:
+	0.	xiaomi mi3w - 5.0 inch/2.3ghz/16gb/13.0mp/3050mah-trang
+	1.	xiaomi mi3w - 5.0 inch/2.3ghz/16gb/13.0mp/3050mah-vàng
+	2.	baseus 3.4a dual usb car charger for iphone 8 samsung s9 xiaomi fast car phone charger smart auto usb car-charger with led light
+	3.	a4 air jacket case for iphone 4 - xanhtim
+	4.	mieng dan dien thoai marubo qian cho iphone 7plus / 8plus dostyle tomorrow
+------------------------------------
+nguyễn nhật ánh:
+	0.	dưới ánh sáng của thiền
+	1.	giá nhựa đựng đồ đa năng, mút rửa bát (hút chân không) nội địa nhật bản
+	2.	ấm đun đa năng royalstar ysh8020 (1.8l)
+	3.	cuốc xẻng đa năng gấp gọn
+	4.	ghế orchid furnist
+------------------------------------
+đắc nhân tâm:
+	0.	nghĩ đơn giản, sống đơn thuần
+	1.	ác nhân
+	2.	16 kế sử dụng nhân tài
+	3.	những bậc thầy ngụy tạo
+	4.	shinkenger - siêu nhân thần kiếm - vcd 5
+------------------------------------
+harry potter:
+	0.	501 must-read books
+	1.	501 must-read books
+	2.	vegan street food
+	3.	read write inc. phonics: interactive stories cd-rom 1 single user
+	4.	the flashcard theo phuong phap glenn doman - the gioi quanh em: giao thong
+------------------------------------
+son:
+	0.	son thỏi studiomakeup rich hydration lipstick srl - 19 femme fatale (4g)
+	1.	son miracle apo stick matte 4g
+	2.	100 vien gach xay dung ky nang lanh dao
+	3.	thuc pham chuc nang vien uong moc toc nature gift cysderm (60 vien/hop)
+	4.	son thỏi yves rocher rouge vertige shine lipstick (3.5g) - 16 y118884
+------------------------------------
+lego:
+	0.	motor wedo 2.0 lego education 45303
+	1.	advanced accounting
+	2.	goi tua in hoa tiet 2 thang loi (40 x 40 cm)
+	3.	dau goi va xa bubchen rosalea (2 in 1) 230ml - 99857
+	4.	tu sach biet noi: tell tales in 1000 words (tap 2)
+------------------------------------
+nhà giả kim:
+	0.	bấm kim tự động chân kim phẳng kokuyo
+	1.	gỡ kim kangaro cỡ nhỏ - sr45t
+	2.	dây cáp audio 2 đầu ugreen 10739 (3.5mm)
+	3.	bấm kim số 10 - c8505
+	4.	kim bấm số 3 baoke sn24-6
+------------------------------------
+usb:
+	0.	usb pny candy 16g
+	1.	usb hub elecom u3h-k315bbk
+	2.	usb transcend jetflash 510 gold ts16gjf510g 16gb - usb 2.0
+	3.	usb otg  transcend jf380 gold 16gb - usb 2.0
+	4.	usb 3.0 ld 32g ud011
+------------------------------------
+bitis hunter:
+	0.	lốc 10 tập (vở) kẻ ngang winner klong 560h
+	1.	sandal xuong quai ngang gan no mirabella 120 - xanh (size 35)
+	2.	dép quai ngang unisex blackout b5 - quai xanh lá (size 41)
+	3.	giay sneaker classcial zapas gz014bu - xanh (size 42)
+	4.	này chiến trận, này cuồng si
+------------------------------------
+kem chống nắng:
+	0.	kem chống nắng eveline suncare spf30 - evel 3077        
+	1.	kem đánh răng p/s bảo vệ 123 240g - 21160261
+	2.	máy làm kem schnell koch 1000347
+	3.	kem đánh răng đa tác dụng crest 180g
+	4.	kẹo socola kem sữa hershey's kisses gói 340g
+------------------------------------
+vichy:
+	0.	phấn má đa màu nyx professional makeup mosaic powder blush (5.7g) - mpb09
+	1.	ma sói mini boardgamevn
+	2.	sua tam bionsen bao ve, phuc hoi lan da voi cac hoat chat muoi khoang 750ml
+	3.	sua tam bionsen bao ve, phuc hoi lan da voi cac hoat chat muoi khoang 750ml
+	4.	mặt nạ cấp nước bailuogan
+------------------------------------
+đồng hồ:
+	0.	thần đồng
+	1.	đồng hồ lenovo x
+	2.	chiếc gương đồng
+	3.	đồng hồ để bàn suemal dbbb1307
+	4.	đồng hồ để bàn suemall dbbb1310
+------------------------------------
+vali:
+	0.	vali skyway oasis 2.0 spinner hardside (20") - burgundy
+	1.	vali chovis celine (20") - champagne
+	2.	vali skyway oasis 2.0 spinner hardside (20")   - purple
+	3.	kem nền bb golden cezanne (30g)
+	4.	băng keo si 5f
+------------------------------------
+sổ tay:
+	0.	sổ tay naniya
+	1.	sổ tay typo believe - achieve - succeed
+	2.	sổ tay retro plain 1510c
+	3.	sổ tay retro plain 1510d
+	4.	sổ tay artbook single - 19
+------------------------------------
+your name:
+	0.	let god fight your battles
+	1.	life without limits: inspiration for a ridiculously good life
+	2.	designing your life
+	3.	this naked mind: control alcohol, find freedom, discover happiness & change your life
+	4.	wood architecture now! vol 2 - hardcover
+------------------------------------
+giày:
+	0.	gd - giày running adidas adbb0806
+	1.	gd - giày neo adaw403717 (us: 4.5)
+	2.	gd - giày neo adidas aw3835a182 (eu: 38.5)
+	3.	gd - giày running adidas bb4358a
+	4.	gd - giày running adidas bb0806a11 (eu: 41.5)
+------------------------------------
+bts:
+	0.	vay thun tk11-l
+	1.	áo thun trơn cổ tim tk01 - hồng neon - s
+	2.	dam thun pha voan rabity
+	3.	áo thun thành viên bts kpop  - xl
+	4.	combo 3 quần brief thun lạnh giãn 4 chiều relax rltk006 - xl
+------------------------------------
+slime:
+	0.	ao ba lo nam f2 fashion f2-bl-08 - trang kem (size s)
+	1.	giay the thao nam running peak e81517h - den (size 44)
+	2.	my super sister
+	3.	ốp lưng htc one m8 mẫu 163
+	4.	giày sneaker cao cổ nam superga s00amr0_a77 - đỏ
+------------------------------------
+iphone:
+	0.	iphone 6 tucano libro iph64lo
+	1.	iphone 6 tucano tela iph64t
+	2.	câu chuyện iphone
+	3.	ổ cứng ssd m.2 samsung 950 pro nvme 512gb - mz-v5p512bw 
+	4.	tivi led samsung 43 inch full hd ua43m5100dk
+------------------------------------
+chuột:
+	0.	chuột venr vw830
+	1.	chuột bornd j11
+	2.	phím gảy 1 cạnh 0.73 deviser kbd 18a1-de
+	3.	không phải tình hờ
+	4.	bột cacao vanhouten không đường hộp 350g
+------------------------------------
+không gia đình:
+	0.	bếp nướng không khói gia đình
+	1.	loa không dây hỗ trợ giáo viên và hướng dẫn viên du lịch lượng pin 20 giờ victory (takstar) e126
+	2.	 bình giữ nhiệt lock&lock bằng thép không gỉ, ruột bằng thủy tinh (3.2l)
+	3.	tour vũng tàu - cánh đồng hoa thạch thảo - đồi cừu - bến du thuyền 01 ngày
+	4.	buffet bia 2 loại bia tươi kozel - tặng món nhậu - nh canarval
+------------------------------------
+bình giữ nhiệt:
+	0.	bình đun giữ ấm sữa nale h1101-iii
+	1.	máy làm sữa đậu nành bluestone smb-7326 1.2l
+	2.	bình đun pensonic pab-1700(p) (1.7 lít)
+	3.	bột sữa greend food (250g / gói)
+	4.	bột ăn dặm topfer organic - ngũ cốc gạo sữa (200g)
+------------------------------------
+tuổi trẻ đáng giá bao nhiêu:
+	0.	những bước đầu tiên giúp trẻ trưởng thành - buổi nhạc hội trong rừng
+	1.	chữa lành đứa trẻ bên trong bạn
+	2.	phát triển trí thông minh & tài năng của trẻ theo phươgng pháp shidachi (dưới 7 tuổi)
+	3.	để em là đứa trẻ ngoan ngoãn và thông minh - camille và buổi liên hoan gia đình
+	4.	ipab học chữ thông minh winfun 2270
+------------------------------------
+ssd:
+	0.	ram corsair xms3 8gb ddr3l 1600 c11 - cmx8gx3m1a1600c11
+	1.	ram corsair vengeance lpx (2 x 8gb) 16gb ddr4 2133 c13 - cmk16gx4m2a2133c13
+	2.	ram corsair vengeance lpx (2 x 16gb) 32gb ddr4 2400 c14 - cmk32gx4m2a2400c14
+	3.	ổ cứng ssd kingston v300 sata iiisv300s37a/480g - 480gb
+	4.	ổ cứng ssd kingston v300 120gb - sv300s37a/120g
+------------------------------------
+senka:
+	0.	so tay tra cuu chinh sach thue hien hanh nam 2014
+	1.	truyen kinh di viet nam hien dai - dac tuyen va dai chung
+	2.	dau goi nam petrole hahn ngan rung toc (250ml)
+	3.	chi mi kim tuyen mira glitter auto eyeliner pen - b486-312
+	4.	truyen co tich viet nam - sinh con roi moi sinh cha
+------------------------------------
+sach:
+	0.	chan dung nguoi phat tu
+	1.	tu sach biet noi: ngoc qua
+	2.	sap thom hando huong l-essential (300g)
+	3.	dau goi lifebuoy toc mem muot 170g 
+	4.	phat tam
+------------------------------------
+mặt nạ:
+	0.	mặt nạ dưỡng ẩm natural friend nanocell
+	1.	mặt nạ ingeni acne purifying back
+	2.	mặt nạ dưỡng ẩm wetherm (20 cái)
+	3.	khuôn mặt bị đánh cắp
+	4.	mặt dây chuyền đại thế chí bồ tát thạch anh khói ngọc quý gemstones dtcbttak
+------------------------------------
+doraemon:
+	0.	van hoc teen - chang trai bi an
+	1.	bm - khung anh hoa xuan playdoh - a7189
+	2.	đặc san (hoa học trò) - cất nỗi buồn vào hôm qua (hs)
+	3.	but nuoc hello kitty - dh-ps1
+	4.	cát vệ sinh kún miu hương hoa nhài (8l)
+------------------------------------
+logitech:
+	0.	msi z370 krait gaming motherboard (intel z370 / lga 1151)
+	1.	tai nghe sennheiser mm 30i
+	2.	tai nghe sennheiser hd 202 am thanh song dong
+	3.	tai nghe khong day enzatec fp112-den
+	4.	tai nghe khong day rapoo h8020-den
+------------------------------------
+one piece:
+	0.	one piece 22
+	1.	one piece 39
+	2.	one piece 54
+	3.	there's only one danny ogle (football mad)
+	4.	one crow alone
+------------------------------------
+bông tẩy trang:
+	0.	bông tẩy trang pigeon (pigeon) pl163 (120 miếng)
+	1.	gối trang trí soft decor red heart
+	2.	đèn ngủ trang trí netviet ng 001
+	3.	đèn ngủ trang trí netviet ng 6068
+	4.	đèn vách tường trang trí nv_8209/1b
+------------------------------------
+iphone x:
+	0.	iphone 6 tucano libro iph64lo
+	1.	iphone 6 tucano tela iph64t
+	2.	câu chuyện iphone
+	3.	ổ cứng ssd m.2 samsung 950 pro nvme 512gb - mz-v5p512bw 
+	4.	tivi led samsung 43 inch full hd ua43m5100dk
+------------------------------------
+ipad:
+	0.	ipad hi#u tucano folio - ipd5an
+	1.	ipad hi#u tucano folio - ipd5an
+	2.	bao da bao ve may chup anh lay lien instax mini 9 hoac mini 8 case930 - white daisy - hang nhap khau
+	3.	bo bao da smart case cho ipad air va hop dung tai nghe - hang chinh hang
+	4.	ghe choi game akracing premium plus gaming series onyx deluxe k901b (da that) - hang chinh hang
+------------------------------------
+loa:
+	0.	loa jbl authentic l16
+	1.	loa algoz ska-301k11 2.1
+	2.	loa usb bluetooth jbl 2.0
+	3.	loa thùng klipsch r-26f floorstander
+	4.	loa bluetooth harman kardon aura studio
+------------------------------------
+laneige:
+	0.	son dưỡng môi maybelline baby lips – 4g-mẫu 2
+	1.	bo hop thuc pham sunhouse sht11003 (460ml - 850ml - 1000ml)
+	2.	bo 3 tam tranh canvas phong khach nghe thuat (40 x 60 cm)
+	3.	combo tinh dau dat viet: tinh dau tram + tinh dau que + tinh dau bac ha (10 ml / chai)
+	4.	sua tang can vi chocolate muscle juice ultimate nutrition smun220 (2.25kg)
+------------------------------------
+bookmark:
+	0.	bookmark  tagore
+	1.	bookmark veneer & quilling vn6bm412034e1
+	2.	bookmark veneer & quilling vn6bm412051nn
+	3.	chuyen khao ve tinh chau doc - dia ly hoc: tu nhien, kinh te & lich su nam ky.
+	4.	dai cuong su lieu hoc va cac nguon su lieu chu viet lich su viet nam
+------------------------------------
+bao cao su:
+	0.	bao cao su durex pleasuremax 3s - 40128       
+	1.	bao cao su power men dotted 12c
+	2.	bao cao su sagami are-are (10 chiec)
+	3.	bao cao su sagami are-are (5 chiec)
+	4.	bao cao su okamoto 0.03 h.a -3's
+------------------------------------
+thế giới phẳng:
+	0.	không đánh mà thắng - chiến lược cạnh tranh lấy nhỏ thắng lớn
+	1.	kiến trúc thế giới thế kỷ xx
+	2.	toefl ibt - listenning a1 (không cd)
+	3.	cáp chia nguồn sata 1 ra 2
+	4.	1500 structured tests leve 1 (không cd)
+------------------------------------
+dan brown:
+	0.	may pha ca phe delonghi eco310
+	1.	dan piano leapfrog 19204-99903
+	2.	may pha ca phe delonghi ec685.r
+	3.	dan organ yamaha psr s775
+	4.	may pha ca phe bluehouse bh253cm
+------------------------------------
+ielts:
+	0.	richmond practice test flyers student's book + audio cd
+	1.	ielts foundation: study skills pack
+	2.	backpack (2 ed.) 6: workbook with audio cd  - paperback
+	3.	outcomes up-inter: workbook with key & audio cd - paperback
+	4.	dominoes: macbeth level 1 (audio cassette)
+------------------------------------
+diệp lạc vô tâm:
+	0.	xà đơn gắn cửa cải tiến có chốt chống xoay (60cm-100cm)	
+	1.	hộp thẻ học cụ montessori - bảng chữ cái rời anh - việt - số và số lượng
+	2.	trở về từ cửa tử
+	3.	làm thế nào để trở thành người tài giỏi biết người
+	4.	16 kế sử dụng nhân tài
+------------------------------------
+sạc dự phòng:
+	0.	sạc dự phòng maxco 3000mah-vàng
+	1.	loa bluetooth suntek s10 (6w) - đỏ - hàng nhập khẩu
+	2.	loa bluetooth suntek s207 (10w) - đỏ - hàng nhập khẩu
+	3.	cáp sạc / truyền dữ liệu type-c của iiano
+	4.	loa bluetooth suntek ts-268 (3w) - đỏ  - hàng nhập khẩu
+------------------------------------
+uno:
+	0.	bếp gas dương sunhouse mama mmbi0787g
+	1.	dầu hướng dương oxy (1.8l)
+	2.	trà nhài 200g
+	3.	chuột e-blue s-brigo ems113-xanh dương
+	4.	luật phòng, chống tác hại của thuốc lá
+------------------------------------
+ngôn tình:
+	0.	lệ phí tình yêu (dvd)
+	1.	thiệp tình yêu imfriday lov 34
+	2.	lấy nhau vì tình
+	3.	kẹo alpenliebe cofitos hương cà phê sữa (gói 35 viên)
+	4.	thiệp tình bạn imfriday fri3
+------------------------------------
+xịt khoáng:
+	0.	xịt dưỡng tóc whamisa organic seeds hair scalp tonic 60g
+	1.	dầu xả dưỡng ẩm ichikami 480g
+	2.	sữa rửa mặt dưỡng ẩm papa recipe bombee honey moisture cleansing foam (120ml)
+	3.	mặt nạ ngủ dưỡng ẩm waso beauty sleeping mask (80ml) - 14935
+	4.	mặt nạ dưỡng tóc etude house silk scarf hair moist pack (180ml)
+------------------------------------
+hoàng tử bé:
+	0.	hoàng tử bé
+	1.	bé tô màu toy story
+	2.	những cuộc gặp gỡ của hoàng tử bé
+	3.	chuyện các bé rau củ quả ở khu rừng phép thuật - ớt đỏ sống tự lập (tái bản)
+	4.	họa sỹ nhí bé tập tô màu: thú rừng 
+------------------------------------
+thẻ nhớ:
+	0.	cáp micro usb lejie - dùng để sạc và truyền dữ liệu
+	1.	sạc dự phòng yoobao 5200mah magic cube ii-yb629
+	2.	pin sạc dự phòng hoco b23a lcd - 2 cổng usb dada hocob23a-15k-wh (15000mah) - hàng chính hãng - trắng
+	3.	cáp sạc lightning belkin f8j023bt04-red 1.2m
+	4.	apdapter sạc energizer 5 cổng 25w eu usa5ceucwh5
+------------------------------------
+túi đeo chéo:
+	0.	túi đeo chéo styluk lqq01ouf
+	1.	túi đeo chéo t101
+	2.	túi đeo chéo superme
+	3.	túi đeo chéo zipit studio zbd blk
+	4.	túi đeo chéo zipit fling zaz pk-ye
+------------------------------------
+sony:
+	0.	tai nghe nhet tai samsung galaxy s4 tnss4 - hang nhap khau
+	1.	android tivi sony 43 inch kd-43x8000e/s
+	2.	android tivi sony 65 inch kd-65x7500d
+	3.	android tivi oled sony 65 inch 4k uhd kd-65a8f
+	4.	internet tivi sony 49 inch kdl-49w750e
+------------------------------------
+inuyasha:
+	0.	ao ba lo nam f2 fashion f2-bl-08 - trang kem (size s)
+	1.	giay the thao nam running peak e81517h - den (size 44)
+	2.	my super sister
+	3.	ốp lưng htc one m8 mẫu 163
+	4.	giày sneaker cao cổ nam superga s00amr0_a77 - đỏ
+------------------------------------
+chuột không dây:
+	0.	chuột không dây m-ir06drrd
+	1.	chuột không dây bornd c113
+	2.	chuột zadez không dây m363
+	3.	tenda d301 - router adsl2+ không dây tốc độ 300m
+	4.	tp-link  tl-mr3420 - router không dây chuẩn n 3g/4g
+------------------------------------
+bố già:
+	0.	combo đầm mẹ bé sọc ngang mẫu 1 cirino cb_damsocngangm1 - trắng đen - mẹ l bé s4
+	1.	các chỉ số đo lường hiệu suất
+	2.	365 ngày phát triển trí tuệ (tập 1) - nối số và chữ
+	3.	36 kế cầu người và dùng người
+	4.	chỉ số cảm xúc eq - phát triển chỉ số cảm xúc- miếng dán thần kì - 4 đến 5 tuổi (tái bản)
+------------------------------------
+suối nguồn:
+	0.	truyện cổ tích bằng tranh - chưa đỗ ông nghè đã nghe hàng tổng
+	1.	quạt bàn sharp pjt1621v gy
+	2.	bộ phát wifi di động 3g-vodafone r205 + sim 3g/4g viettel 2gb/ngày - hàng nhập khẩu
+	3.	cáp nối dài ugreen usb 2.0 10324 (20m) - hàng chính hãng
+	4.	quạt bàn goldsun t3001 (40w)
+------------------------------------
+mega:
+	0.	may tinh bang cube iwork 8 air/ air pro 2gb, 32gb
+	1.	router wifi 4g huawei e5573 lte 150mbps + sim 4g mobifone khuyen mai 60gb /thang
+	2.	tu dau giuong vedde plus jysk 3659408 (50 x 40 x 46 cm)
+	3.	bo sac cho ipad air 2 - hang nhap khau
+	4.	bo kinh cuong luc deo nano cho iphone 5/ 5s/ 5se (trong suot) va mieng dan mat sau van carbon (den) - hang chinh hang
+------------------------------------
+iphone 6:
+	0.	iphone 6 tucano libro iph64lo
+	1.	iphone 6 tucano tela iph64t
+	2.	câu chuyện iphone
+	3.	ổ cứng ssd m.2 samsung 950 pro nvme 512gb - mz-v5p512bw 
+	4.	tivi led samsung 43 inch full hd ua43m5100dk
+------------------------------------
+ma sói:
+	0.	máy mài góc jv-tech vt13101 650w
+	1.	vong tay da opal vang pakistan gembank (12mm)  - vang
+	2.	tinh chat cai thien nep nhan va lam san chac da yves rocher wrinkles & firmness ultra plumping serum 30ml - y101828
+	3.	mặt nạ cấp nước bailuogan
+	4.	luat thue gia tri gia tang 2013 - da duoc sua doi, bo sung (co hieu luc tu 01/01/2014)
+------------------------------------
+durex:
+	0.	mllit08 iar crit analysis w/add val gr6
+	1.	son bút chì cathy doll one draw semi matte lip #10 yamu yamu (1.5g)
+	2.	dreamcatcher dc077
+	3.	kem làm mượt & bóng cho tóc xoăn s4u twist alfaparf milano (100ml)
+	4.	lồng tắm cho mèo kún miu cỡ nhỏ (45 x 12 x 26 cm)
+------------------------------------
+bàn phím:
+	0.	bàn phím coolerplus cpk x2
+	1.	bàn phím i-rocks kr6260we (ik3-w)
+	2.	bộ 3 tượng phật không nói, không nghe, không thấy - vàng
+	3.	chuột chơi game ajazz aj10 
+	4.	túi đựng máy quay phim elecom zsb-dv002bk
+------------------------------------
+máy sấy tóc:
+	0.	máy hút khói candy crd 93x
+	1.	máy hâm sữa 4 chức năng fatzbaby fb3002sl
+	2.	máy nước nóng lạnh kangaroo kg33tn
+	3.	máy hút bụi bluehouse bh022pr
+	4.	máy hút sữa spectra m1
+------------------------------------
+trên đường băng:
+	0.	vỉ 3 cây bút gel crown mtj-500ps (mực tím)
+	1.	bộ túi cơm hộp lock&lock-hpl762rp 1.0l
+	2.	hộp 4 bánh givral thành ý 1 (300g x 4 bánh)
+	3.	kẹp gắp bình sữa pigeon - gcpg030268
+	4.	bịt mắt ngủ 3d lanluo
+------------------------------------
+nivea:
+	0.	tour da nang - hue 01 ngay, kh hang ngay tu da nang
+	1.	khach san sea castle tieu chuan 3 sao tai da nang
+	2.	mat na tai tao da christina comodex double action mask (75ml)
+	3.	loa bluetooth promate streambox-xl da ket noi - beige
+	4.	adapter sac da nang ho tro da chau usb hoco ac3 - (xanh duong)
+------------------------------------
+jbl:
+	0.	loa bluetooth jbl spark
+	1.	loa bluetooth jbl cinema stv105
+	2.	loa bluetooth radio mao king
+	3.	loa bluetooth jbl clip 2 - special edition
+	4.	loa bluetooth doss ds1661
+------------------------------------
+đi tìm lẽ sống:
+	0.	đi để mà đi
+	1.	một nửa
+	2.	một nửa
+	3.	kẹp tóc - nơ lá ép-xanh rêu
+	4.	những triền xưa ai đi
+------------------------------------
+hunter:
+	0.	jordan men&#39;s shock absorbed sports wearable basketball shoes
+	1.	death run
+	2.	361° men's air cushioned sneakers, running shoes
+	3.	361° men's lightweight breathable running shoes
+	4.	erke erke erke shoes new lightweight casual running shoes 52117114086 positive black 39
+------------------------------------
+hành trình về phương đông:
+	0.	ifi lọc spdif ipurifer
+	1.	trở về từ cửa tử
+	2.	tương đậu nành cj vị truyền thống (500g)
+	3.	làm dâu nước đức (tự truyện)
+	4.	hành trình về phương đông
+------------------------------------
+bình nước:
+	0.	bình lọc nước chessi-elegan el16wf - 16l
+	1.	bàn uống trà oval 2 lt-6300
+	2.	nước sữa dừa tc hương xoài
+	3.	bình đun pensonic pab-1700(p) (1.7 lít)
+	4.	bình đựng nước lh-w50x-500ml
+------------------------------------
+casio:
+	0.	decal casio fx - cte054
+	1.	nap casio fx - pld001
+	2.	decal casio fx - fhd002
+	3.	vit bake sata 62-317 (8 x 200 mm)
+	4.	lens nikon 20mm f/1.8g edaf-s
+------------------------------------
+sherlock holmes:
+	0.	read write inc.: comprehension evaluation pack
+	1.	read write inc. phonics: interactive stories cd-rom 1 single user
+	2.	khu rừng bị phù phép (coloring book)
+	3.	huaya huaya plating dumbbell 10 kg kg removable adjustment combination of men&#39;s sports fitness equipment
+	4.	nuoc hoa huong lily yves rocher lily of the valley spray (100ml) - y101922
+------------------------------------
+tinh dầu:
+	0.	tinh bột nghệ hilobee (200g)
+	1.	chén cơm thuỷ tinh 325ml corelle 411-sg-lp
+	2.	tương ớt xí muội cholimex chai thuỷ tinh 270g 
+	3.	tinh dầu leviter gừng (10ml)
+	4.	tinh dầu sả aotanica (10ml)
+------------------------------------
+nguồn cội:
+	0.	truyện cổ tích bằng tranh - chưa đỗ ông nghè đã nghe hàng tổng
+	1.	cáp nối dài ugreen usb 2.0 10324 (20m) - hàng chính hãng
+	2.	cáp nối dài ethernet ugreen cat6 11278 (0.5m) - hàng chính hãng
+	3.	bộ phát wifi di động 3g-vodafone r205 + sim 3g/4g viettel 2gb/ngày - hàng nhập khẩu
+	4.	quạt bàn sharp pjt1621v gy
+------------------------------------
+truyện ngôn tình:
+	0.	truyện 365 ngày đêm (lđ)
+	1.	truyện cười tiếu lâm hài nhất
+	2.	108 truyện trạng cười hay nhất
+	3.	elizabeth mất tích
+	4.	truyện kiều
+------------------------------------
+quạt:
+	0.	dụng cụ cs thái đa năng 010003
+	1.	đèn bàn 3 mức điều chỉnh độ sáng  kang ming km-s055n
+	2.	đèn bàn 3 mức điều chỉnh độ sáng  kang ming km-s055n
+	3.	đèn bàn 3 mức điều chỉnh độ sáng  kang ming km-s055n
+	4.	máy mài hitachi g10sr3
+------------------------------------
+nokia:
+	0.	điện thoại samsung galaxy ace 2 - i8160 
+	1.	điện thoại samsung galaxy pocket neo s5312
+	2.	ốp ráp 3 mảnh cho samsung galaxy j7 pro
+	3.	htc desire 816g
+	4.	sim 3g viettel km htc 526g
+------------------------------------
+sữa rửa mặt:
+	0.	sữa rửa mặt x-men sạch sâu (100g)
+	1.	sữa rửa mặt dưỡng ẩm dịu nhẹ olay (125g)
+	2.	sữa rữa mặt real fresh foam cleanser blueberry neogen 120g
+	3.	sữa rửa mặt ngăn ngừa mụn st.ives chiết xuất trái mơ 170g
+	4.	mặt trời mù
+------------------------------------
+móc khóa:
+	0.	móc khóa fast carter nz972c
+	1.	móc khóa đôi lớn nhỏ - mickey
+	2.	bếp điện từ cảm ứng comet cm5419 (2000w) - đen
+	3.	disney english - cấp độ 3: 101 chú chó đốm (không cd)
+	4.	lò nướng điện đối lưu comet cm6519 (35l) - đen
+------------------------------------
+cha giàu cha nghèo:
+	0.	tư duy đột phá
+	1.	bột ăn dặm nuti iq cua mùng tơi (200g)
+	2.	socola hershey's hrc cookiesncreme (15g)
+	3.	chai sữa nước abbott pediasure ba 3+ (237ml)
+	4.	ga say la chanh cha cha hu (300g)
+------------------------------------
+mãi mãi là bao xa:
+	0.	notebook - mãi mãi là bao xa
+	1.	thanh vắt khăn bao m5-507 (inox 304)
+	2.	son môi skinfood vita color lipstic pk10 (4.5g)
+	3.	[gift] 6 bao li xi vichy
+	4.	son môi dạng thỏi shiseido rouge rouge (4g) - rd502 real ruby - 13469
+------------------------------------
+sữa tắm:
+	0.	sữa bột abbott grow 1 ag1m (900g)
+	1.	socola hershey's sữa 43g
+	2.	sữa bột enfamil a+ 2 (400g)
+	3.	bột cacao sữa dừa greend food csd450h (450g)
+	4.	sữa bột đặc trị chứng táo bón modilac expert transit+ (400g)
+------------------------------------
+đạo tình:
+	0.	lệ phí tình yêu (dvd)
+	1.	xà phòng thảo dược củ cải & cà rốt cathy doll reunrom herbal soap chinese radish & carrot (55g)
+	2.	đạo của warren buffett
+	3.	thiệp tình yêu imfriday lov 34
+	4.	kẹo alpenliebe cofitos hương cà phê sữa (gói 35 viên)
+------------------------------------
+bút:
+	0.	cắm bút kejen k-945
+	1.	bút gôm đẩy pentel - ze11t-đỏ
+	2.	vỉ bút ký fan + 2 ruột - bcc-fan
+	3.	bút chì chuốt 2b 990
+	4.	hộp bút sắt xiaolingjing b 666
+------------------------------------
+tiểu thuyết:
+	0.	bộ dụng cụ học sinh - minions
+	1.	tủ sách khoa học shin - cậu bé bút chì: di sản thế giới
+	2.	bộ bàn ghế học sinh 1 lt-6334
+	3.	sim 4g vinaphone trọn gói 60gb/tháng (trọn gói 6 tháng)
+	4.	côn trùng
+------------------------------------
+samsung:
+	0.	samsung galaxy tab 3 lite 7inch/wifi/8gb t110
+	1.	samsung e1200
+	2.	samsung  gear fit-đen
+	3.	samsung galaxy j7 (2016) - dch
+	4.	samsung galaxy e7
+------------------------------------
+sword art online:
+	0.	sword art online 001 - aincrad
+	1.	modern art
+	2.	fantasy clip art
+	3.	comic art now - hardcover
+	4.	hard red spring
+------------------------------------
+bookcare:
+	0.	ao ba lo nam f2 fashion f2-bl-08 - trang kem (size s)
+	1.	giay the thao nam running peak e81517h - den (size 44)
+	2.	my super sister
+	3.	ốp lưng htc one m8 mẫu 163
+	4.	giày sneaker cao cổ nam superga s00amr0_a77 - đỏ
+------------------------------------
+thẻ cào:
+	0.	cáp hdmi full hd 4k 3d winet (5m)
+	1.	cáp sạc lightning belkin f8j023bt04-red 1.2m
+	2.	cáp micro usb lejie - dùng để sạc và truyền dữ liệu
+	3.	cáp chuyển đổi promate prolink4k2-150 hdmi 1.5m
+	4.	tp-link  t2600g-28ts (tl-sg3424) - managed switch jetstream l2 24 cổng pure-gigabit
+------------------------------------
+nguyen nhat anh:
+	0.	hien than
+	1.	lang thang như gió
+	2.	bien cua vo cung
+	3.	set 3 hop nhua tron 180ml noi dia nhat ban
+	4.	combo gel se khit lo chan long, giai doc dem vichy normaderm 40ml + sua rua mat ngan ngua mun, se lo chan long vichy 125ml + xit khoang vichy 50ml
+------------------------------------
+innisfree:
+	0.	son dưỡng skinfood shea butter lip care bar intense #2 - 2.5g - 2152
+	1.	khoang vi luong fulvic minerals dp dpful200 (209ml)
+	2.	ivy takes care
+	3.	son dưỡng môi care cera moisturizing lip balm (2.4g)
+	4.	son dưỡng care-full lip essence grapefruit seed missha m8658 (9g)
+------------------------------------
+giày nữ:
+	0.	giày nữ reebok rush 2.0 ayakkabi ar2652
+	1.	giày nữ painting siêu thoáng yamet sg36g25 gray  - 38
+	2.	giày nữ painting siêu thoáng yamet sg36g25 gray  - 39
+	3.	giày lười nữ flossy w gallinero pink - hồng
+	4.	giày bít mũi nữ phối nơ nados h05009
+------------------------------------
+ehon:
+	0.	he sinh thai toyota
+	1.	bột ăn dặm nuti iq cua mùng tơi (200g)
+	2.	cuoc song cua oc sen
+	3.	but ki thuat stabilo point pt88-do tuoi-50
+	4.	mot nua cua 13 la 8
+------------------------------------
+blockchain:
+	0.	ao ba lo nam f2 fashion f2-bl-08 - trang kem (size s)
+	1.	giay the thao nam running peak e81517h - den (size 44)
+	2.	my super sister
+	3.	ốp lưng htc one m8 mẫu 163
+	4.	giày sneaker cao cổ nam superga s00amr0_a77 - đỏ
+------------------------------------
+za:
+	0.	khan choang zaa kc405015w
+	1.	khan choang zaa kc405005i
+	2.	khan choang zaa kc405011b
+	3.	tho khang bao giam
+	4.	sức mạnh của sự khích lệ
+------------------------------------
+light novel:
+	0.	osram h1 24v70w truck truck bus light bulb bulb light bulb low beam light bulb
+	1.	osram  h4 car bulb headlamp bulb high beam light bulb halogen lamp light far and near light 64193sup 12v55w german imports 
+	2.	osram (osram) h9 car bulb headlamp bulb high beam light beam light bulb halogen lamp longevity type 12v (single loaded)
+	3.	apex maths 1 teacher's handbook: extension for all through problem solving
+	4.	happy street 1, new edition: class audio cds
+------------------------------------
+máy nghe nhạc:
+	0.	tai nghe bluetooth 3d joyroom jr-320i (vàng)
+	1.	tai nghe bluetooth hoco e15
+	2.	tai nghe bluetooth hoco e15
+	3.	tai nghe sony mdr-100aap chụp tai - vàng chanh
+	4.	tai nghe bluetooth pisen vn003
+------------------------------------
+sổ:
+	0.	sổ lych50841-2905ch
+	1.	sổ tay từ vựng tiếng anh trình độ a (sách bỏ túi) - sử dụng app
+	2.	xà bông rửa tay dove - mềm mịn tự nhiên (250ml)
+	3.	sổ tay tiếng anh trung học phổ thông (lớp 10 - 11 - 12)
+	4.	sổ tay kiểm toán nội bộ (song ngữ  việt - anh)
+------------------------------------
