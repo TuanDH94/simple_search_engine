@@ -14,10 +14,13 @@ Máy tìm kiềm có hỗ trợ tìm kiếm không dấu, có hàm preprocessing
 ### Running the application
 
 Require: sklearn, numpy
+
 $ pip install sklearn
+
 $ pip install numpy
 
 Chạy chương trình:
+
 $ python main.py
 
 ### Sample output
